@@ -1,4 +1,5 @@
 ![The Riffs logo.](/assets/Riffs_logo.png)
+![The Riffs logo.](/assets/Riffs_logo-small.png)
 # Riffs
 ### Songwriting for musicians. Anywhere.
 ---
