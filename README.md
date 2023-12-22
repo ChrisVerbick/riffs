@@ -2,7 +2,8 @@
   <img src="/assets/Riffs_logo-small.png" alt="The Riffs logo" />
 </p>
 
-<h2 align="center" width=100%> Songwriting for musicians. Anywhere.</h2><br />
+<h2 align="center" width=100%>Songwriting for musicians. Anywhere.</h2><br />
+<h2 align="center" width=100%>The anywhere studio for songwriters.</h2><br />
 
 Riffs is a platform that empowers musicians to capture short song ideas, to share with other musicians, and learn or modify the music of others.
 
